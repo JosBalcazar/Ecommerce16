@@ -1,8 +1,8 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Avance del proyecto Ecommerce desarrollado empleando: Html, Css, Sass, Javascript y React
+Para el desarrollo de SASS se usó la extensión “Live Sass Compiler” para Visual Studio Code
+Nota: Todavía falta completar varios temas, como:
+- Completar información de algunos enlaces.
+- En resumen de Carro de Compras, falta mostrar el detalle y desde aqui poder eliminar y modificar los productos del carrito
+- Falta desplegar menu de Categorias, para mostrar familias: Rodamientos, Fajas, Mangueras, etc
+- La busqueda me falto tiempo para implementarlo
+- Otros.
