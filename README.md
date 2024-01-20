@@ -12,5 +12,5 @@ Para la clonacion:
 - Levantar VSC en esta carpeta, abrir terminal de Git Bash
 - Y ejecutar los comandos:
     - git init
-    - git clone https://github.com/JosBalcazar/Ecommerce14.git
+    - git clone https://github.com/JosBalcazar/Ecommerce16.git
 - Ejecutar: npm install	
